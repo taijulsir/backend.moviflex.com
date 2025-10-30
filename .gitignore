@@ -1,7 +1,5 @@
 node_modules/
 dist/
-.env
-.env.*
 logs/
 .DS_Store
 .vscode/
@@ -9,3 +7,4 @@ logs/
 *.log
 *.tsbuildinfo
 coverage/
+config.bat
