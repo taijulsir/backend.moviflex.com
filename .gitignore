@@ -17,12 +17,7 @@ pids/
 *.pid
 
 # Runtime environment
-.env
-.env.*
-.env.local
 .env.development.local
-.env.test
-.env.production
 
 # Prisma local DB
 prisma/dev.db
@@ -73,3 +68,4 @@ secrets/
 
 # Ignore coverage snapshot files from jest
 coverage/
+config.bat
